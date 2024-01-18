@@ -1,0 +1,127 @@
+@media only screen and (min-width: 768px) {
+    body {
+  font-size: 16px;
+}
+}
+@media only screen and (max-width: 767px) {
+body {
+  font-size: 14px;
+}
+}
+h3{
+    text-align: right;
+    margin-right: 8%;
+    color: rgba(119, 34, 34, 0.919);
+}
+form{
+    background-color: rgb(235, 235, 235);
+    margin-top: -30px;
+    padding-top: 30px;
+
+}
+#btn{
+    border-radius: 5%;
+    color:rgb(255, 255, 255);
+    background-color: rgb(79, 176, 82);
+    border-color:  rgb(79, 176, 82);
+    margin-left: 1240px;
+    margin-bottom: 50px;   
+    width: 80px;
+
+}
+#lk{
+    text-decoration: none;
+    color: inherit;
+}
+#btne{
+    border-radius: 5%;
+    color:rgb(255, 255, 255);
+    background-color: rgb(79, 176, 82);
+    border-color:  rgb(79, 176, 82);
+    margin-left:15px ;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.Amargin{
+    
+    margin-left: 15px;
+}
+.Bmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 48px;
+}
+.cmargin{
+    
+    margin-left: 45px;
+}
+.dmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 77px;
+}
+.emargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 69px;
+}
+.fmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 28px;
+}
+.gmargin{
+    width: 73%;
+    /* height: 30px; */
+    margin-left: 140px;
+}
+.Gemargin{
+    margin-left: 15px;
+}
+.hmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 84px;
+}
+.imargin{
+    margin-left: 33px;
+}
+.jmargin{
+    margin-left: 45px;
+}
+
+.kmargin{
+    margin-left: 30px;
+}
+.lmargin{
+    margin-left: 138px;
+}
+.mmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 55px;
+}
+.nmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 87px;
+}
+.omargin{
+    margin-left: 69px;
+}
+.qmargin{
+    width: 73%;
+    height: 40px;
+    margin-left: 55px;
+}
+.rmargin{
+    /* POSITION HOTI MTLB HM KIS JGA KY HISAB SY MARGIN DY RHY HYN ABSOLTE MTLB UPER WALI LY HISAB SY */
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+/* FONT ID LGA DI HY SAB MEN INPUT KY ANDAR LIKHI JANY WALI TEXT KA SIZE DENY KLIYE */
+#font{
+    font-size: 16px;
+}
